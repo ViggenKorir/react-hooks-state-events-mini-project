@@ -6,7 +6,7 @@ export const TASKS = [
     category: "Food",
   },
   {
-    text: "Save a tenner",
+    text: "Save a some cash",
     category: "Money",
   },
   {
@@ -18,7 +18,7 @@ export const TASKS = [
     category: "Code",
   },
   {
-    text: "Get an ISA",
+    text: "Get car insurance",
     category: "Money",
   },
   {
